@@ -1,0 +1,88 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    
+    text-align: center;
+    
+}
+#bg-image{
+  background-image: url("home-background.jpg") ;
+  width:100vw;
+  height: 100vh;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+#loading{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: 99999;
+}
+
+
+.hero-content{
+    transform: translate(75%);
+     height: 150px;
+    width:40%;
+    background-color: #FFC107;
+    padding: 3rem;
+    border-bottom-left-radius: 10rem;
+    border-bottom-right-radius: 10rem;
+}
+
+.hero-button{
+    position: relative;
+    left:14%;
+    bottom:6%;
+    width:70%;     
+    border-radius: 10rem;
+}
+
+
+.get-started{
+    
+    border-radius: 0.5rem;
+    padding: 1rem 2rem; 
+    background-color:#46469E;
+    color:black ! important;
+
+}
+
+.get-started:hover{
+    text-decoration: none;
+    background-color: #bfdff0;
+
+}
+
+.aa{
+    color:white;
+  
+}
+
+
+.rainbow{
+    background-color: #46469E;
+    border-radius: 4px;  
+    color:white;
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 10rem;    
+  }
+
+
+  .rainbow-3:hover{
+    background-image: linear-gradient( red);
+    
+  }
+
+  
+  /* Table Body Style */
+
+  .tableRow:nth-child(2) {
+    background-color: red;
+  }
+      
+  
+  
+  
