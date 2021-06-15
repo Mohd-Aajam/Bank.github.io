@@ -14,7 +14,7 @@ and All account holders details.
 
 ### Connect with me:
 
-<a href=""><img align="left" alt="Mohd-Aajam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />: Twitter </a> <br>
+<a href="https://twitter.com/aazamtagala"><img align="left" alt="Mohd-Aajam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />: Twitter </a> <br>
 
 <a href="https://www.linkedin.com/in/mohd-aajam-546a29207/"><img align="left" alt="Mohd-Aajam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: Linkedin</a>
 
